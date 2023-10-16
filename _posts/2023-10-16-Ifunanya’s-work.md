@@ -8,4 +8,4 @@ tags: [Github, website]
 
 ## Introduction to IOT
 
-This will show what IOT is all about.
+This will tell us all what IOT is all about.
