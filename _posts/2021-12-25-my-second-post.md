@@ -1,14 +1,11 @@
 ---
 layout: post
-title: Introduction to Python
-subtitle: Each post also has a subtitle
-categories: Python
-tags: [Python, intro, certificate]
+title: Introduction to IOT
+subtitle: Brief summary
+categories: website
+tags: [Github, website]
 ---
 
-## Introduction to Python
+## Introduction to IOT
 
-This post is meant to summarize some of the key concepts I have learned in the course *Introduction to Python*
-
-
-![datacamp certification](/assets/images/banners/datacamp_certificate_dummy.jpg)
+This will show what IOT is all about.
